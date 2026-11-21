@@ -6,7 +6,8 @@ Designed to empower users to seamlessly discover upcoming events, inspect detail
 
 **Live Demo 1:** [https://EventPulse.vercel.app](https://eventpulse-ten-blond.vercel.app/)<br>
 **Live Demo 2:** [https://EventPulse.netlify.app](https://eventpulse-responsive-event-management-website.netlify.app/)<br>
-**Live Demo 3:** [https://EventPulse.onrender.com](https://eventpulse-3buk.onrender.com)
+**Live Demo 3:**
+[https://EventPulse.onrender.com](https://eventpulse-3buk.onrender.com)
 
 ## 🌟 Key Features
 
