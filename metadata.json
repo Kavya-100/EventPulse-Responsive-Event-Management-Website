@@ -1,0 +1,6 @@
+{
+  "name": "EventPulse - Responsive Event Management & Registration Platform",
+  "description": "Explore upcoming events, filter by categories, view detailed agendas and live countdowns, and register with instant validated ticket generation and persistent management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
