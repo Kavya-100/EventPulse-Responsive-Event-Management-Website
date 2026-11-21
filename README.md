@@ -4,7 +4,7 @@ A modern, visually appealing, and fully responsive event management website buil
 
 Designed to empower users to seamlessly discover upcoming events, inspect detailed schedules and featured speakers, track live real-time countdowns, and register for premier gatherings with instant digital ticket issuance and client-side data persistence.
 
-**Project Summary :**[EventPlus Project Summary](https://docs.google.com/document/d/1aAmESrwFKJBtOZmAkfDLKXK2PeIV5p5MRvVPhuj39nI/edit?usp=drivesdk) 
+**Project Summary :** [EventPlus Project Summary](https://docs.google.com/document/d/1aAmESrwFKJBtOZmAkfDLKXK2PeIV5p5MRvVPhuj39nI/edit?usp=drivesdk) 
 
 **Live Demo 1:** [https://EventPulse.vercel.app](https://eventpulse-ten-blond.vercel.app/)<br>
 **Live Demo 2:** [https://EventPulse.netlify.app](https://eventpulse-responsive-event-management-website.netlify.app/)<br>
